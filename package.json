@@ -26,7 +26,7 @@
   "homepage": "https://github.com/cagataycali/lazy-examples#readme",
   "dependencies": {
     "lazy.ai": "^2.2.1",
-    "snyk": "^1.42.3"
+    "snyk": "^1.83.0"
   },
   "snyk": true
 }
